@@ -125,14 +125,26 @@ student.exe
 ## 📸 **Screenshots (Optional)**
 
 * Add Student
+* <img width="416" height="360" alt="Screenshot 2025-11-20 124835" src="https://github.com/user-attachments/assets/0aed9dbe-9bbf-4eda-8a4e-58c2ce4be6a6" />
+
 * Display Students
+* <img width="617" height="591" alt="Screenshot 2025-11-20 125003" src="https://github.com/user-attachments/assets/873ea819-ea46-4f88-bf65-222500880411" />
+
 * Search Student
+* <img width="433" height="431" alt="Screenshot 2025-11-20 125024" src="https://github.com/user-attachments/assets/aa35e9a4-85d3-4b27-b493-8f5ee40e32b9" />
+
 * Update Student
+* <img width="505" height="326" alt="Screenshot 2025-11-20 125039" src="https://github.com/user-attachments/assets/f50420f7-b41b-4e21-b45e-503fe761c557" />
+
 * Delete Student
+* <img width="562" height="286" alt="Screenshot 2025-11-20 125050" src="https://github.com/user-attachments/assets/81f578d0-9451-49f9-87cc-3aa88bf3e959" />
+
 * Exit
+* <img width="683" height="232" alt="Screenshot 2025-11-20 125058" src="https://github.com/user-attachments/assets/9fabf783-c843-4a69-b1bc-ba6c4f82d552" />
+
 
 ---
 
 ## 📝 **Author**
 
-**Sri Charan**
+**Sri Charan.D**
